@@ -21,7 +21,7 @@ Results
 The Jupyter Notebook file contains several data visualizations used for this project. Here are some of the most important charts:
 
 <p align="center">
-  <img src="https://github.com/esaritepe/FoodHub_DataAnalysis/blob/main/screenshots/Delivery%20Time%20vs%20Rating.png"/>
+  <img src="https://github.com/esaritepe/FoodHub_DataAnalysis/blob/main/screenshots/Most%20Popular%20Cuisines.png"/>
 </p>
 
 * According to the count plot above, American is the most popular cuisine type. Japanese, Italian, and Chinese are also popular cuisine types among FoodHub users.
