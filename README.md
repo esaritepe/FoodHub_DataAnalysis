@@ -1,5 +1,9 @@
 # FoodHub Data Analysis
 
+<p align="center">
+  <img src="https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yMjg5OTY5NS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc1MTMyMzk3M30.LVgqjpTVjtEZQ_ZZT2ZAJs47PFU_C3RXw53tsjidr08/img.jpg?width=1200&height=630&coordinates=107%2C0%2C107%2C0" width=200/>
+</p>
+
 Background
 ---------------
 * The number of restaurants in New York City is increasing by the day, being used by students and professionals due to their hectic lifestyles.
